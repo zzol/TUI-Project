@@ -20,6 +20,15 @@
 	<Item Name="Cohort.ctl" Type="Class Private Data" URL="Cohort.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="CohortCheck.vi" Type="VI" URL="../Cohort/CohortCheck.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$(!!!!"Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!/1W^I&lt;X*U,GRW9WRB=X-!!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"!!%!!1!"!!&amp;!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!%!"A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
 	<Item Name="CohortDemo.vi" Type="VI" URL="../CohortDemo.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Q!!!!%Q!%!!!!"U!'!!%Q!!&gt;!"A!"-1!(1!9!!4)!"U!'!!%T!!&gt;!"A!".!!(1!9!!45!"U!'!!%W!!&gt;!"A!".Q!(1!9!!4A!"U!'!!%Z!!F!"A!#-4!!!!F!"A!#-4%!!!F!"A!#-4)!!!F!"A!#-4-!!!F!"A!#-41!!!F!"A!#-45!!&amp;I!]1!!!!!!!!!#%6.U;7VV&lt;%.U=GRT,GRW&lt;'FC$U.P;'^S&gt;&amp;"B&lt;G6M,G.U&lt;!!Q1&amp;!!%!!"!!)!!Q!%!!5!"A!(!!A!#1!+!!M!$!!.!!Y!$Q!1"%61)$%!!%Y!]!!,!!!!%1!!!!!!!!!!!!!!!!!!!!!!!!-!!/I!!!!!!!!+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!%A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -39,22 +48,31 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
 	<Item Name="CohortDisplay.vi" Type="VI" URL="../CohortDisplay.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!91(!!#!!!!"Y!!!J$&lt;WBP=H1A5G6G!!!E1(!!(A!!%!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!#5.P;'^S&gt;#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!E!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%M!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!5!"U&gt;S&lt;X6Q)#-!'%"Q!!A!!!!?!!!+1W^I&lt;X*U)&amp;*F:A!!*%"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!F$&lt;WBP=H1A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!+!!!!#A!!!*!!!!!!!1!+!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
+	<Item Name="CohortElectdGrayout.vi" Type="VI" URL="../Cohort/CohortElectdGrayout.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#Y!!!!"1!%!!!!+E"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!&amp;%"!!!(`````!!%(1W^I&lt;X*U=Q!;1(!!#!!!!!9!!!R$&lt;WAA5'&amp;O:7QA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!$!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!AA!!!!+!!!!!!%!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
 	<Item Name="CohortGetElectd.vi" Type="VI" URL="../Cohort/CohortGetElectd.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%U!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;5!*!!^1&gt;7RT:3"8;72U;#"&lt;=VU!'U!&amp;!"21&gt;7RT:3"'=G6R&gt;76O9XEA7UB[81!!"!!!!!V!#1!(4H6N:8*J9Q!71%!!!@````]!"QF.97&gt;O;82V:'5!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!(A!!%!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!#5.P;'^S&gt;#"J&lt;A"5!0!!$!!$!!1!"1!'!!A!"A!'!!9!#1!'!!9!#A)!!(A!!!U)!!!*!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%U!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;5!*!!^1&gt;7RT:3"8;72U;#"&lt;=VU!'U!&amp;!"21&gt;7RT:3"'=G6R&gt;76O9XEA7UB[81!!"!!!!!V!#1!(4H6N:8*J9Q!71%!!!@````]!"QF"&lt;8"M;82V:'5!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!(A!!%!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!#5.P;'^S&gt;#"J&lt;A"5!0!!$!!$!!1!"1!'!!A!"A!'!!9!#1!'!!9!#A)!!(A!!!U)!!!*!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1879581184</Property>
 	</Item>
 	<Item Name="CohortInitialize.vi" Type="VI" URL="../CohortInitialize.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'A!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!&amp;%!B$E.I98*H:3"#97RB&lt;G.F!!!81!=!%&amp;.J:WZB&lt;#""&lt;8"M;82V:'5!!"N!"1!65WFH&lt;G&amp;M)%:S:8&amp;V:7ZD?3"&lt;3(J&gt;!"F!#1!45WFH&lt;G&amp;M)%2V=G&amp;U;7^O)&amp;NT81!61!E!$E2F&lt;'&amp;Z)&amp;2J&lt;75A7X.&gt;!!!61!E!$V"V&lt;(.F)&amp;&gt;J:(2I)&amp;NT81"5!0(2?6U=!!!!!B&amp;4&gt;'FN&gt;7R$&gt;(*M=SZM&gt;GRJ9A^1&gt;7RT:5.P&lt;G:J:SZD&gt;'Q!+E"1!!9!"A!(!!A!#1!+!!M45(6M=W5A1W^O:GFH&gt;8*B&gt;'FP&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"!!%!!Q!"!-!!(A!!!E!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!"!!U!!!!!</Property>

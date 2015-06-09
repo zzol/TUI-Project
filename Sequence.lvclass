@@ -24,13 +24,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="SeqnGet.vi" Type="VI" URL="../Seqn/SeqnGet.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;0!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!/1W^I&lt;X*U,GRW9WRB=X-!!":!1!!"`````Q!&amp;#&amp;.F=86F&lt;G.F!!!K1(!!(A!!%B"4:8&amp;V:7ZD:3ZM&gt;G.M98.T!!!-5W6R&gt;76O9W5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#B!=!!?!!!3%&amp;.F=86F&lt;G.F,GRW9WRB=X-!!!N4:8&amp;V:7ZD:3"J&lt;A"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!I!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;.!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!/1W^I&lt;X*U,GRW9WRB=X-!!"2!1!!"`````Q!&amp;"U.P;'^S&gt;(-!+E"Q!"Y!!")15W6R&gt;76O9W5O&lt;(:D&lt;'&amp;T=Q!!$&amp;.F=86F&lt;G.F)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!I1(!!(A!!%B"4:8&amp;V:7ZD:3ZM&gt;G.M98.T!!!,5W6R&gt;76O9W5A;7Y!6!$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!%!!E#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!+!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="SeqnSet.vi" Type="VI" URL="../Seqn/SeqnSet.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;0!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!3%&amp;.F=86F&lt;G.F,GRW9WRB=X-!!!R4:8&amp;V:7ZD:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+E"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!&amp;E"!!!(`````!!=)5W6R&gt;76O9W5!!#B!=!!?!!!3%&amp;.F=86F&lt;G.F,GRW9WRB=X-!!!N4:8&amp;V:7ZD:3"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!A!#1)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!1!!!!EA!!!!!"!!I!!!!!</Property>
@@ -40,14 +40,5 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
-	</Item>
-	<Item Name="SeqnSetElectd.vi" Type="VI" URL="../Seqn/SeqnSetElectd.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#6!!!!"A!%!!!!$5!&amp;!!&gt;(=G^V=#!D!!^!#1!*17VQ&lt;'FU&gt;72F!!N!"1!&amp;37ZE:8A!'E"Q!!A!!!!?!!!.27RF9X2S&lt;W2F)&amp;*F:A")!0!!#A!!!!!!!!!!!!!!!!!"!!)!!Q!%!Q!!=!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!!+!!!!#A!!!!!"!!5!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1074004224</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
 </LVClass>

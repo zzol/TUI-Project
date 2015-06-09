@@ -10,12 +10,13 @@
 	<Item Name="CohortEleWfmPanel.ctl" Type="VI" URL="../CohortEleWfmPanel.ctl"/>
 	<Item Name="CohortPanel.ctl" Type="VI" URL="../CohortPanel.ctl"/>
 	<Item Name="CohortPanel2.ctl" Type="VI" URL="../Cohort/CohortPanel2.ctl"/>
+	<Item Name="ElectdClear.vi" Type="VI" URL="../UserControl/ElectdClear.vi"/>
 	<Item Name="ElectdPanel.ctl" Type="VI" URL="../UserControl/ElectdPanel.ctl"/>
+	<Item Name="ElectdSet.vi" Type="VI" URL="../UserControl/ElectdSet.vi"/>
 	<Item Name="ElectdTerminal.ctl" Type="VI" URL="../UserControl/ElectdTerminal.ctl"/>
 	<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
 	<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
 	<Item Name="PulseConfig.ctl" Type="VI" URL="../PulseConfig.ctl"/>
-	<Item Name="Reset.vi" Type="VI" URL="../LeftPanel/Reset.vi"/>
 	<Item Name="RingToAmp.vi" Type="VI" URL="../UserControl/RingToAmp.vi"/>
 	<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 </Library>
