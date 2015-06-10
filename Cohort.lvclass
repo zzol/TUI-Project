@@ -48,13 +48,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
 	<Item Name="CohortDisplay.vi" Type="VI" URL="../CohortDisplay.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%M!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!5!"U&gt;S&lt;X6Q)#-!'%"Q!!A!!!!?!!!+1W^I&lt;X*U)&amp;*F:A!!*%"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!F$&lt;WBP=H1A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!+!!!!#A!!!*!!!!!!!1!+!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%O!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!=!!)!!!!(A!!$5.P;#"197ZF&lt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!5!"U&gt;S&lt;X6Q)#-!*%"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!F$&lt;WBP=H1A;7Y!'%"!!!(`````!!A+1W^I&lt;X*U=S"J&lt;A!!'E"Q!!A!!!!?!!!-1W^I)&amp;"B&lt;G6M)'FO!!")!0!!#A!$!!1!"!!&amp;!!1!"!!'!!=!#1!+!Q!!U!!!$19!!!!!!!!!!!!!$1E!!!!!!!!!!!!!#!!!!!A!!!%+!!!!#!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
 	<Item Name="CohortElectdGrayout.vi" Type="VI" URL="../Cohort/CohortElectdGrayout.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#Y!!!!"1!%!!!!+E"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!&amp;%"!!!(`````!!%(1W^I&lt;X*U=Q!;1(!!#!!!!!9!!!R$&lt;WAA5'&amp;O:7QA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!$!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!AA!!!!+!!!!!!%!"!!!!!!</Property>
