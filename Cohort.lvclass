@@ -56,15 +56,6 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 	</Item>
-	<Item Name="CohortElectdGrayout.vi" Type="VI" URL="../Cohort/CohortElectdGrayout.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#Y!!!!"1!%!!!!+E"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!&amp;%"!!!(`````!!%(1W^I&lt;X*U=Q!;1(!!#!!!!!9!!!R$&lt;WAA5'&amp;O:7QA;7Y!!&amp;1!]!!-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!$!Q!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!AA!!!!+!!!!!!%!"!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
-	</Item>
 	<Item Name="CohortGetElectd.vi" Type="VI" URL="../Cohort/CohortGetElectd.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%U!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;5!*!!^1&gt;7RT:3"8;72U;#"&lt;=VU!'U!&amp;!"21&gt;7RT:3"'=G6R&gt;76O9XEA7UB[81!!"!!!!!V!#1!(4H6N:8*J9Q!71%!!!@````]!"QF"&lt;8"M;82V:'5!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!(A!!%!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!#5.P;'^S&gt;#"J&lt;A"5!0!!$!!$!!1!"1!'!!A!"A!'!!9!#1!'!!9!#A)!!(A!!!U)!!!*!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

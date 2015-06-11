@@ -14,6 +14,7 @@
 	<Item Name="ElectdPanel.ctl" Type="VI" URL="../UserControl/ElectdPanel.ctl"/>
 	<Item Name="ElectdSet.vi" Type="VI" URL="../UserControl/ElectdSet.vi"/>
 	<Item Name="ElectdTerminal.ctl" Type="VI" URL="../UserControl/ElectdTerminal.ctl"/>
+	<Item Name="InputPad.vi" Type="VI" URL="../UserControl/InputPad.vi"/>
 	<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
 	<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
 	<Item Name="PulseConfig.ctl" Type="VI" URL="../PulseConfig.ctl"/>
