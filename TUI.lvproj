@@ -14,9 +14,9 @@
 		<Item Name="Cohort.lvclass" Type="LVClass" URL="../Cohort.lvclass"/>
 		<Item Name="Electrode.lvclass" Type="LVClass" URL="../Electrode.lvclass"/>
 		<Item Name="MainUI.vi" Type="VI" URL="../MainUI.vi"/>
-		<Item Name="PadEnum.ctl" Type="VI" URL="../UserControl/PadEnum.ctl"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
+		<Item Name="SubPanelsLib.lvlib" Type="Library" URL="../SubPanels/SubPanelsLib.lvlib"/>
 		<Item Name="VoltageSetting.vi" Type="VI" URL="../VoltageSetting.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
