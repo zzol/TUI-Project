@@ -4,4 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="InputPad.vi" Type="VI" URL="../InputPad.vi"/>
+	<Item Name="InputPadRef.vi" Type="VI" URL="../InputPadRef.vi"/>
+	<Item Name="SubPanelVI.vi" Type="VI" URL="../SubPanelVI.vi"/>
 </Library>
