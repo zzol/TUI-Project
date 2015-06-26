@@ -4,12 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="AmplitudePanel.ctl" Type="VI" URL="../AmplitudePanel.ctl"/>
 	<Item Name="AmpToRing.vi" Type="VI" URL="../UserControl/AmpToRing.vi"/>
 	<Item Name="CohortConfig.ctl" Type="VI" URL="../CohortConfig.ctl"/>
-	<Item Name="CohortEleWfmPanel.ctl" Type="VI" URL="../CohortEleWfmPanel.ctl"/>
 	<Item Name="CohortPanel.ctl" Type="VI" URL="../CohortPanel.ctl"/>
 	<Item Name="CohortPanel2.ctl" Type="VI" URL="../Cohort/CohortPanel2.ctl"/>
+	<Item Name="CohortRegister.vi" Type="VI" URL="../UserControl/CohortRegister.vi"/>
+	<Item Name="Electd_Small.ctl" Type="VI" URL="../UserControl/Electd_Small.ctl"/>
 	<Item Name="ElectdClear.vi" Type="VI" URL="../UserControl/ElectdClear.vi"/>
 	<Item Name="ElectdPanel.ctl" Type="VI" URL="../UserControl/ElectdPanel.ctl"/>
 	<Item Name="ElectdSet.vi" Type="VI" URL="../UserControl/ElectdSet.vi"/>
@@ -17,7 +17,9 @@
 	<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
 	<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
 	<Item Name="PadEnum.ctl" Type="VI" URL="../UserControl/PadEnum.ctl"/>
-	<Item Name="PulseConfig.ctl" Type="VI" URL="../PulseConfig.ctl"/>
+	<Item Name="Panel_Small.ctl" Type="VI" URL="../UserControl/Panel_Small.ctl"/>
+	<Item Name="ReadTime.vi" Type="VI" URL="../UserControl/ReadTime.vi"/>
+	<Item Name="RefWorkingFile.vi" Type="VI" URL="../UserControl/RefWorkingFile.vi"/>
 	<Item Name="RingToAmp.vi" Type="VI" URL="../UserControl/RingToAmp.vi"/>
 	<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 </Library>
