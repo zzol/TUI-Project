@@ -16,7 +16,6 @@
 		<Item Name="MainUI.vi" Type="VI" URL="../MainUI.vi"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
-		<Item Name="SubPanelsLib.lvlib" Type="Library" URL="../SubPanels/SubPanelsLib.lvlib"/>
 		<Item Name="VoltageSetting.vi" Type="VI" URL="../VoltageSetting.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -28,6 +27,7 @@
 			<Item Name="AmplitudePanel.ctl" Type="VI" URL="../AmplitudePanel.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="PulseConfig.ctl" Type="VI" URL="../PulseConfig.ctl"/>
+			<Item Name="RefWorkingFile.vi" Type="VI" URL="../UserControl/RefWorkingFile.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

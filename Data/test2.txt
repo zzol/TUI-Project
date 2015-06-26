@@ -1,0 +1,2 @@
+Tag	Freq[Hz]	Pul_Width[ms]	Electd_0	Electd_1	Electd_2	Electd_3	Electd_4	Electd_5	Electd_6	Electd_7	Electd_8	Electd_9	Electd_10	Electd_11	Electd_12	Electd_13	Electd_14	Electd_15
+This is a cohort	  1.00	  1.00	 -1.00	 -1.00	 -1.00	 -1.00	 -1.00	  1.00	  0.00	 -1.00	 -1.00	 -1.00	 -1.00	 -1.00	 -1.00	 -1.00	 -1.00	 -1.00
