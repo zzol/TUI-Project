@@ -13,10 +13,10 @@
 		<Item Name="BackupCode.vi" Type="VI" URL="../BackupCode.vi"/>
 		<Item Name="Cohort.lvclass" Type="LVClass" URL="../Cohort.lvclass"/>
 		<Item Name="Electrode.lvclass" Type="LVClass" URL="../Electrode.lvclass"/>
+		<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
 		<Item Name="MainUI.vi" Type="VI" URL="../MainUI.vi"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
-		<Item Name="VoltageSetting.vi" Type="VI" URL="../VoltageSetting.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="LVStringsAndValuesArrayTypeDef_U8.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_U8.ctl"/>
@@ -24,7 +24,6 @@
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 			</Item>
-			<Item Name="AmplitudePanel.ctl" Type="VI" URL="../AmplitudePanel.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="PulseConfig.ctl" Type="VI" URL="../PulseConfig.ctl"/>
 			<Item Name="RefWorkingFile.vi" Type="VI" URL="../UserControl/RefWorkingFile.vi"/>
