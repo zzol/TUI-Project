@@ -10,14 +10,16 @@
 		<Item Name="FileRefFGV.vi" Type="VI" URL="../UserControl/FileRefFGV.vi"/>
 		<Item Name="InputPadRef.vi" Type="VI" URL="../SubPanels/InputPadRef.vi"/>
 		<Item Name="SubPanelVI.vi" Type="VI" URL="../SubPanels/SubPanelVI.vi"/>
+		<Item Name="SEQPoolFGV.vi" Type="VI" URL="../SEQPoolFGV.vi"/>
 	</Item>
 	<Item Name="NumericPad" Type="Folder">
 		<Item Name="InputPad.vi" Type="VI" URL="../SubPanels/InputPad.vi"/>
 		<Item Name="PadEnum.ctl" Type="VI" URL="../UserControl/PadEnum.ctl"/>
-		<Item Name="SeqnPool.vi" Type="VI" URL="../SubPanels/SeqnPool.vi"/>
 	</Item>
-	<Item Name="Small Panel" Type="Folder">
-		<Item Name="SeqnPanel_sm.vi" Type="VI" URL="../SubPanels/SeqnPanel_sm.vi"/>
+	<Item Name="SeqnPool" Type="Folder">
+		<Item Name="SEQPool.ctl" Type="VI" URL="../SEQPool/SEQPool.ctl"/>
+		<Item Name="SEQPool.vi" Type="VI" URL="../SEQPool/SEQPool.vi"/>
+		<Item Name="SEQPanel_sm.vi" Type="VI" URL="../SEQPool/SEQPanel_sm.vi"/>
 		<Item Name="Cohort_sm.ctl" Type="VI" URL="../UserControl/Cohort_sm.ctl"/>
 	</Item>
 	<Item Name="AmpToRing.vi" Type="VI" URL="../UserControl/AmpToRing.vi"/>
@@ -31,6 +33,6 @@
 	<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
 	<Item Name="ReadTime.vi" Type="VI" URL="../UserControl/ReadTime.vi"/>
 	<Item Name="RingToAmp.vi" Type="VI" URL="../UserControl/RingToAmp.vi"/>
-	<Item Name="SeqPool.ctl" Type="VI" URL="../UserControl/SeqPool.ctl"/>
 	<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
+	<Item Name="CheckPanelEmpty.vi" Type="VI" URL="../UserVIs/CheckPanelEmpty.vi"/>
 </Library>
