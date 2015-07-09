@@ -13,8 +13,8 @@
 		<Item Name="BackupCode.vi" Type="VI" URL="../BackupCode.vi"/>
 		<Item Name="Cohort.lvclass" Type="LVClass" URL="../Cohort.lvclass"/>
 		<Item Name="Electrode.lvclass" Type="LVClass" URL="../Electrode.lvclass"/>
-		<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
 		<Item Name="MainUI.vi" Type="VI" URL="../MainUI.vi"/>
+		<Item Name="Program.lvclass" Type="LVClass" URL="../PRG/Program.lvclass"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">

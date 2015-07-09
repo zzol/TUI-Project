@@ -20,7 +20,7 @@
 	<Item Name="Electrode.ctl" Type="Class Private Data" URL="Electrode.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="ElectrodeAmplitude.vi" Type="VI" URL="../ElectrodeAmplitude.vi">
+	<Item Name="ElectrodeAmplitude.vi" Type="VI" URL="../Expired Codes/ElectrodeAmplitude.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%I!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!4%56M:7.U=G^E:3ZM&gt;G.M98.T!!V&amp;&lt;'6D&gt;(*P:'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;U!+!""4;7&gt;O97QA17VQ&lt;'FU&gt;72F!!!K1(!!(A!!%R&amp;&amp;&lt;'6D&gt;(*P:'5O&lt;(:D&lt;'&amp;T=Q!-27RF9X2S&lt;W2F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!!EA!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -29,7 +29,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
-	<Item Name="ElectrodeDemo.vi" Type="VI" URL="../ElectrodeDemo.vi">
+	<Item Name="ElectrodeDemo.vi" Type="VI" URL="../Expired Codes/ElectrodeDemo.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"?!!!!!Q!%!!!!#E!B"6.U98*U!%A!]!!+!!!!!!!!!!!!!!!!!!!!!1!!!!!$!!$1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!%!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -38,7 +38,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
-	<Item Name="ElectrodeInquireStatus.vi" Type="VI" URL="../ElectrodeInquireStatus.vi">
+	<Item Name="ElectrodeInquireStatus.vi" Type="VI" URL="../Expired Codes/ElectrodeInquireStatus.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%L!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!)22&amp;&lt;'6D&gt;(*P:'5A17.U;8:B&gt;'6E0Q!!+E"Q!"Y!!"-227RF9X2S&lt;W2F,GRW9WRB=X-!$56M:7.U=G^E:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!K1(!!(A!!%R&amp;&amp;&lt;'6D&gt;(*P:'5O&lt;(:D&lt;'&amp;T=Q!-27RF9X2S&lt;W2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -47,7 +47,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
-	<Item Name="ElectrodeOn.vi" Type="VI" URL="../ElectrodeOn.vi">
+	<Item Name="ElectrodeOn.vi" Type="VI" URL="../Expired Codes/ElectrodeOn.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%D!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!4%56M:7.U=G^E:3ZM&gt;G.M98.T!!V&amp;&lt;'6D&gt;(*P:'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!B$%6M:7.U=G^E:3"0&lt;A!!+E"Q!"Y!!"-227RF9X2S&lt;W2F,GRW9WRB=X-!$%6M:7.U=G^E:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -56,7 +56,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
-	<Item Name="ElectrodeWFM.vi" Type="VI" URL="../ElectrodeWFM.vi">
+	<Item Name="ElectrodeWFM.vi" Type="VI" URL="../Expired Codes/ElectrodeWFM.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!$A!K1(!!(A!!%R&amp;&amp;&lt;'6D&gt;(*P:'5O&lt;(:D&lt;'&amp;T=Q!-27RF9X2S&lt;W2F)'FO!!!:1!=!%F.B&lt;8"M;7ZH)&amp;*B&gt;'5A7UB[81!!"!!!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!-!"!!&amp;%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!B#&amp;"M&lt;X1A4WY`!!!K1(!!(A!!%R&amp;&amp;&lt;'6D&gt;(*P:'5O&lt;(:D&lt;'&amp;T=Q!.27RF9X2S&lt;W2F)'^V&gt;!!.1!I!"G2U)&amp;NT81!!"1!+!!!;1%!!!@````]!#AR4;7&gt;O97QA18*S98E!!":!5!!$!!-!"!!&amp;#76S=G^S)'^V&gt;!";!0!!#Q!!!!%!!A!'!!)!!A!(!!A!#1!,!!Q$!!$K!!!)!!!!#A!!!!!!!!!)!!!!!!!!!!!!!!!*!!!!$1!!!!E!!!!*!!!!$1-!$!!!!!!!!!!"!!!!!!!"!!U!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -65,7 +65,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 	</Item>
-	<Item Name="ElectrodeWrite.vi" Type="VI" URL="../ElectrodeWrite.vi">
+	<Item Name="ElectrodeWrite.vi" Type="VI" URL="../Expired Codes/ElectrodeWrite.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(J!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!4%56M:7.U=G^E:3ZM&gt;G.M98.T!!V&amp;&lt;'6D&gt;(*P:'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!B$E.I98*H:3"#97RB&lt;G.F!!!81!=!%&amp;.J:WZB&lt;#""&lt;8"M;82V:'5!!"N!"1!65WFH&lt;G&amp;M)%:S:8&amp;V:7ZD?3"&lt;3(J&gt;!"F!#1!45WFH&lt;G&amp;M)%2V=G&amp;U;7^O)&amp;NT81!61!E!$E2F&lt;'&amp;Z)&amp;2J&lt;75A7X.&gt;!!!61!E!$V"V&lt;(.F)&amp;&gt;J:(2I)&amp;NT81"#!0(2?6U=!!!!!1^1&gt;7RT:5.P&lt;G:J:SZD&gt;'Q!+E"1!!9!"Q!)!!E!#A!,!!Q45(6M=W5A1W^O:GFH&gt;8*B&gt;'FP&lt;A!K1(!!(A!!%R&amp;&amp;&lt;'6D&gt;(*P:'5O&lt;(:D&lt;'&amp;T=Q!-27RF9X2S&lt;W2F)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!U!$A)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>

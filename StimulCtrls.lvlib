@@ -1,10 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="12008004">
-	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(]!!!*Q(C=\&gt;7R=2MR%!81N=?"5X&lt;A91P&lt;!FNA#^M#5Y6M96NA"R[WM#WQ"&lt;9A0ZYR'E?G!WPM1$AN&gt;@S(!ZZQG&amp;0%VLZ'@)H8:_X\&lt;^P(^7@8H\4Y;"`NX\;8JZPUX@@MJXC]C.3I6K5S(F/^DHTE)R`ZS%@?]J;XP/5N&lt;XH*3V\SEJ?]Z#F0?=J4HP+5&lt;Y=]Z#%0/&gt;+9@%QU"BU$D-YI-4[':XC':XB]D?%:HO%:HO(2*9:H?):H?)&lt;(&lt;4%]QT-]QT-]BNIEMRVSHO%R@$20]T20]T30+;.Z'K".VA:OAW"%O^B/GK&gt;ZGM&gt;J.%`T.%`T.)`,U4T.UTT.UTROW6;F.]XDE0-9*IKH?)KH?)L(U&amp;%]R6-]R6-]JIPC+:[#+"/7Q2'CX&amp;1[F#`&amp;5TR_2@%54`%54`'YN$WBWF&lt;GI8E==J\E3:\E3:\E-51E4`)E4`)EDW%D?:)H?:)H?5Q6S:-]S:-A;6,42RIMX:A[J3"Z`'S\*&lt;?HV*MENS.C&lt;&gt;Z9GT,7:IOVC7*NDFA00&gt;&lt;$D0719CV_L%7.N6CR&amp;C(7(R=,(1M4;Z*9.T][RNXH46X62:X632X61?X6\H(L8_ZYP^`D&gt;LP&amp;^8K.S_53Z`-Z4K&gt;4()`(/"Q/M&gt;`P9\@&lt;P&lt;U'PDH?8AA`XUMPTP_EXOF`[8`Q&lt;IT0]?OYVOA(5/(_Z!!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(A!!!*Q(C=\&gt;4.D2J"%!&lt;1MO7$LW2AE5+F1!KE5#FQ^:%5+A63))6+A22)9@VIN4=#3VZJNXO,B9`_?@3-*G+VHR%`YKN^N;`WK&gt;PP`QW)_"&lt;R^P;G2L5KF5I_]J'0@/1D(XH,7^\SFL?]Z35P?=F,8P+3JTTF+5^ZSF/_ODTE)1]ZUNB]&lt;$17(1O-Q3AR8I:H?):H?(S-Y2G?Y2G?Y4%EBG&gt;YBG&gt;YBM?U'*\B':\B'2Z,,=GM,O=:(MN(]T20]T20]^ASGK="WG:NY&lt;9)2L1PWZPG;:\G]4;;JXG;JXG;R^@20-X40-X40+;M5_GF?85ZDW7C?)KH?)KH?#Q&gt;R6-]R6-]R7/\+*\C+9CS96E=)=KE-K"]+*\C]3_+JXC+JXC+RV@L#N5[G:@GV?5]S:-]S:-]S7/*3*\E3:\E32\,2P)E4`)E4`,9+J)H?:)H1&gt;+GNI_U7*K9"K5A?@SNOS886?IFS&gt;5D^MU&lt;_[;-@&lt;0&amp;PIFCXRSR,XLMCRH\)M5_`.C('POQ9B^#\"]8'RU&lt;%XO4W*.@!_0J^;(O[K;O[K,/[K3/[P#;_I](0J`0?$Q?=&lt;`@YX;\R@6[D=PF%O@T/5[H5RS0RTA=$O_0A6`[_Q0B)TS80I4B_XIW`GX/[!]-RG7\!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI_IconEditor" Type="Str">49 50 48 49 56 48 49 52 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 0 76 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 9 1 1
+
+</Property>
 	<Item Name="Global Variables" Type="Folder">
 		<Item Name="CorIndexFGV.vi" Type="VI" URL="../UserControl/CorIndexFGV.vi"/>
 		<Item Name="FileRefFGV.vi" Type="VI" URL="../UserControl/FileRefFGV.vi"/>
@@ -22,15 +25,24 @@
 		<Item Name="SEQPanel_sm.vi" Type="VI" URL="../SEQPool/SEQPanel_sm.vi"/>
 		<Item Name="Cohort_sm.ctl" Type="VI" URL="../UserControl/Cohort_sm.ctl"/>
 	</Item>
+	<Item Name="Preview" Type="Folder">
+		<Item Name="WFPanel.vi" Type="VI" URL="../Preview/WFPanel.vi"/>
+	</Item>
+	<Item Name="PRG Setting" Type="Folder">
+		<Item Name="ConfigPanel.vi" Type="VI" URL="../PRG Settings/ConfigPanel.vi"/>
+	</Item>
+	<Item Name="Left Panel" Type="Folder">
+		<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
+		<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
+	</Item>
 	<Item Name="AmpToRing.vi" Type="VI" URL="../UserControl/AmpToRing.vi"/>
-	<Item Name="CohortConfig.ctl" Type="VI" URL="../CohortConfig.ctl"/>
-	<Item Name="CohortPanel.ctl" Type="VI" URL="../CohortPanel.ctl"/>
-	<Item Name="CohortPanel2.ctl" Type="VI" URL="../Cohort/CohortPanel2.ctl"/>
+	<Item Name="CohortConfig.ctl" Type="VI" URL="../COR/CohortConfig.ctl"/>
+	<Item Name="CohortPanel.ctl" Type="VI" URL="../COR/CohortPanel.ctl"/>
+	<Item Name="CohortPanel2.ctl" Type="VI" URL="../COR/CohortPanel2.ctl"/>
 	<Item Name="ElectdClear.vi" Type="VI" URL="../UserControl/ElectdClear.vi"/>
 	<Item Name="ElectdPanel.ctl" Type="VI" URL="../UserControl/ElectdPanel.ctl"/>
 	<Item Name="ElectdSet.vi" Type="VI" URL="../UserControl/ElectdSet.vi"/>
 	<Item Name="ElectdTerminal.ctl" Type="VI" URL="../UserControl/ElectdTerminal.ctl"/>
-	<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
 	<Item Name="ReadTime.vi" Type="VI" URL="../UserControl/ReadTime.vi"/>
 	<Item Name="RingToAmp.vi" Type="VI" URL="../UserControl/RingToAmp.vi"/>
 	<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>

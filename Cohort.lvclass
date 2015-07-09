@@ -20,7 +20,7 @@
 	<Item Name="Cohort.ctl" Type="Class Private Data" URL="Cohort.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="CohortCheck.vi" Type="VI" URL="../Cohort/CohortCheck.vi">
+	<Item Name="CorCheck.vi" Type="VI" URL="../COR/CorCheck.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$"!!!!"Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!*1W^I&lt;X*U)'FO!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"!!%!!1!"!!&amp;!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!%!"A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -29,7 +29,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 	</Item>
-	<Item Name="CohortGetElectd.vi" Type="VI" URL="../Cohort/CohortGetElectd.vi">
+	<Item Name="CorGetElectd.vi" Type="VI" URL="../COR/CorGetElectd.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;'!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;U!*!""1&gt;7RT:3"8;72U;#"&lt;&lt;8.&gt;!!!&lt;1!E!&amp;&amp;"V&lt;(.F)%:S:8&amp;V:7ZD?3"&lt;3(J&gt;!!!%!!!!$5!*!!&gt;/&gt;7VF=GFD!":!1!!"`````Q!(#5&amp;N='RJ&gt;(6E:1!11$$`````"U.05C"597=!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!(A!!%!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!#5.P;'^S&gt;#"J&lt;A"5!0!!$!!$!!1!"1!'!!A!"A!*!!9!#A!'!!9!#Q)!!(A!!!U)!!!*!!!!#1!!!!!!!!!*!!!!!!!!!!E!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -38,7 +38,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1879581184</Property>
 	</Item>
-	<Item Name="CohortSet.vi" Type="VI" URL="../CohortSet.vi">
+	<Item Name="CorSet.vi" Type="VI" URL="../COR/CorSet.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!&amp;%!Q`````QN4:81A1U^3)&amp;2B:Q!.1!E!"UZV&lt;76S;7-!(%"!!!(`````!!=/5W6U)%6M:7.U=G^E:8-!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;5!*!!^4:81A5(6M=W5A6WFE&gt;'A!'5!*!".4:81A5(6M=W5A2H*F=86F&lt;G.Z!&amp;1!]!!-!!-!"!!%!!5!"!!%!!9!#!!*!!I!#Q!%!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!#!!!!!A!!!!)!!!!#!!!!!A!!!!!!!!!!!%!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">256</Property>
@@ -47,7 +47,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 	</Item>
-	<Item Name="CohortSetAmplitude.vi" Type="VI" URL="../CohortSetAmplitude.vi">
+	<Item Name="CorSetAmplitude.vi" Type="VI" URL="../COR/CorSetAmplitude.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%W!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!E!"UZV&lt;76S;7-!)E"!!!(`````!!=527RF9X2S&lt;W2F)%&amp;N='RJ&gt;(6E:8-!!#2!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!*1W^I&lt;X*U)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!#!!*!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!1I!!!#3!!!!!!%!#A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -56,7 +56,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
-	<Item Name="CohortSetElectd.vi" Type="VI" URL="../Cohort/CohortSetElectd.vi">
+	<Item Name="CorSetElectd.vi" Type="VI" URL="../COR/CorSetElectd.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#-!!!!"1!91(!!#!!!!"Y!!!J&amp;&lt;'6D&gt;'1A5G6G!!!,1!5!"5FO:'6Y!!^!#1!*17VQ&lt;'FU&gt;72F!!1!!!"/!0!!#Q!!!!%!!A!$!!-!!Q!$!!-!!Q!$!!-$!!$K!!!)!!!!#!!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -65,7 +65,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
-	<Item Name="CohortShowCohort.vi" Type="VI" URL="../Cohort/CohortShowCohort.vi">
+	<Item Name="CorShowCohort.vi" Type="VI" URL="../COR/CorShowCohort.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.P;'^S&gt;#ZM&gt;G.M98.T!!!+1W^I&lt;X*U)'^V&gt;!!!'E"Q!!A!!!!?!!!.1W^I)&amp;"B&lt;G6M)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"1!(2X*P&gt;8!A)Q!E1(!!(A!!%!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!#5.P;'^S&gt;#"J&lt;A!91%!!!@````]!#1J$&lt;WBP=H2T)'FO!!!;1(!!#!!!!"Y!!!R$&lt;WAA5'&amp;O:7QA;7Y!!%A!]!!+!!-!"!!&amp;!!9!"!!%!!=!#!!+!!M$!!$1!!!."A!!!!!!!!E!!!!.#1!!!!!!!!!!!!!)!!!!#!!!!1I!!!!)!!!!!!%!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -74,7 +74,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 	</Item>
-	<Item Name="CohortShowElectd.vi" Type="VI" URL="../Cohort/CohortShowElectd.vi">
+	<Item Name="CorShowElectd.vi" Type="VI" URL="../COR/CorShowElectd.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;.!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!F!"1!$6#!D!!^!#1!*47&amp;H&lt;GFU&gt;72F!!V!#A!(2X*P&gt;8!A)Q!71&amp;!!!Q!&amp;!!9!"QF&amp;&lt;'6D&gt;(*P:'5!*E"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!J$&lt;WBP=H1A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!N!!Q!&amp;37ZE:8A!*%"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!F$&lt;WBP=H1A;7Y!6!$Q!!Q!!Q!%!!A!#1!%!!1!"!!%!!I!"!!,!!Q#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%A!!!*!!!!!!!1!.!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
