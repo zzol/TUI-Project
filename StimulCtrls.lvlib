@@ -14,6 +14,7 @@
 		<Item Name="InputPadRef.vi" Type="VI" URL="../SubPanels/InputPadRef.vi"/>
 		<Item Name="SubPanelVI.vi" Type="VI" URL="../SubPanels/SubPanelVI.vi"/>
 		<Item Name="SEQPoolFGV.vi" Type="VI" URL="../SEQPoolFGV.vi"/>
+		<Item Name="new.vi" Type="VI" URL="../PRG/new.vi"/>
 	</Item>
 	<Item Name="NumericPad" Type="Folder">
 		<Item Name="InputPad.vi" Type="VI" URL="../SubPanels/InputPad.vi"/>
