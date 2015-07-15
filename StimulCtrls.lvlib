@@ -13,28 +13,30 @@
 		<Item Name="FileRefFGV.vi" Type="VI" URL="../UserControl/FileRefFGV.vi"/>
 		<Item Name="InputPadRef.vi" Type="VI" URL="../SubPanels/InputPadRef.vi"/>
 		<Item Name="SubPanelVI.vi" Type="VI" URL="../SubPanels/SubPanelVI.vi"/>
-		<Item Name="SEQPoolFGV.vi" Type="VI" URL="../SEQPoolFGV.vi"/>
-		<Item Name="new.vi" Type="VI" URL="../PRG/new.vi"/>
+		<Item Name="CylFGV.vi" Type="VI" URL="../CYL/CylFGV.vi"/>
+		<Item Name="PrgFGV.vi" Type="VI" URL="../PrgFGV.vi"/>
 	</Item>
 	<Item Name="NumericPad" Type="Folder">
 		<Item Name="InputPad.vi" Type="VI" URL="../SubPanels/InputPad.vi"/>
 		<Item Name="PadEnum.ctl" Type="VI" URL="../UserControl/PadEnum.ctl"/>
 	</Item>
-	<Item Name="SeqnPool" Type="Folder">
+	<Item Name="CycleEditor" Type="Folder">
 		<Item Name="SEQPool.ctl" Type="VI" URL="../SEQPool/SEQPool.ctl"/>
 		<Item Name="SEQPool.vi" Type="VI" URL="../SEQPool/SEQPool.vi"/>
 		<Item Name="SEQPanel_sm.vi" Type="VI" URL="../SEQPool/SEQPanel_sm.vi"/>
 		<Item Name="Cohort_sm.ctl" Type="VI" URL="../UserControl/Cohort_sm.ctl"/>
+		<Item Name="BU_24.ctl" Type="VI" URL="../SEQPool/BU_24.ctl"/>
+		<Item Name="DLSsetup.vi" Type="VI" URL="../SEQPool/DLSsetup.vi"/>
 	</Item>
 	<Item Name="Preview" Type="Folder">
 		<Item Name="WFPanel.vi" Type="VI" URL="../Preview/WFPanel.vi"/>
 	</Item>
-	<Item Name="PRG Setting" Type="Folder">
-		<Item Name="ConfigPanel.vi" Type="VI" URL="../PRG Settings/ConfigPanel.vi"/>
-	</Item>
 	<Item Name="Left Panel" Type="Folder">
 		<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
 		<Item Name="LeftPanel.ctl" Type="VI" URL="../UserControl/LeftPanel.ctl"/>
+	</Item>
+	<Item Name="ProgramEditor" Type="Folder">
+		<Item Name="PrgDisplay.vi" Type="VI" URL="../PrgEditor/PrgDisplay.vi"/>
 	</Item>
 	<Item Name="AmpToRing.vi" Type="VI" URL="../UserControl/AmpToRing.vi"/>
 	<Item Name="CohortConfig.ctl" Type="VI" URL="../COR/CohortConfig.ctl"/>
