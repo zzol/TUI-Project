@@ -30,6 +30,7 @@
 	</Item>
 	<Item Name="Preview" Type="Folder">
 		<Item Name="WFPanel.vi" Type="VI" URL="../Preview/WFPanel.vi"/>
+		<Item Name="ElectrodeWFM.vi" Type="VI" URL="../Preview/ElectrodeWFM.vi"/>
 	</Item>
 	<Item Name="Left Panel" Type="Folder">
 		<Item Name="LeftPanel.vi" Type="VI" URL="../LeftPanel.vi"/>
@@ -50,4 +51,5 @@
 	<Item Name="RingToAmp.vi" Type="VI" URL="../UserControl/RingToAmp.vi"/>
 	<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 	<Item Name="CheckPanelEmpty.vi" Type="VI" URL="../UserVIs/CheckPanelEmpty.vi"/>
+	<Item Name="CorWFMPanel.ctl" Type="VI" URL="../COR/CorWFMPanel.ctl"/>
 </Library>
