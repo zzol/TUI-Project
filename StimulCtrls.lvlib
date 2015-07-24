@@ -28,7 +28,7 @@
 		<Item Name="BU_24.ctl" Type="VI" URL="../SEQPool/BU_24.ctl"/>
 		<Item Name="DLSsetup.vi" Type="VI" URL="../SEQPool/DLSsetup.vi"/>
 	</Item>
-	<Item Name="Preview" Type="Folder">
+	<Item Name="WFMPreview" Type="Folder">
 		<Item Name="WFPanel.vi" Type="VI" URL="../Preview/WFPanel.vi"/>
 		<Item Name="ElectrodeWFM.vi" Type="VI" URL="../Preview/ElectrodeWFM.vi"/>
 	</Item>
