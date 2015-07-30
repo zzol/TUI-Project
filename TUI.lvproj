@@ -15,6 +15,8 @@
 		<Item Name="Cycle.lvclass" Type="LVClass" URL="../CYL/Cycle.lvclass"/>
 		<Item Name="Electrode.lvclass" Type="LVClass" URL="../Electrode.lvclass"/>
 		<Item Name="MainUI.vi" Type="VI" URL="../MainUI.vi"/>
+		<Item Name="Program.lvclass" Type="LVClass" URL="../PRG/Program.lvclass"/>
+		<Item Name="Protocol.lvclass" Type="LVClass" URL="../PRT/Protocol.lvclass"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">

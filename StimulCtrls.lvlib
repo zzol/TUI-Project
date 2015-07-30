@@ -9,12 +9,15 @@
 
 </Property>
 	<Item Name="Global Variables" Type="Folder">
-		<Item Name="CorIndexFGV.vi" Type="VI" URL="../UserControl/CorIndexFGV.vi"/>
+		<Item Name="CorFGV.vi" Type="VI" URL="../UserControl/CorFGV.vi"/>
 		<Item Name="FileRefFGV.vi" Type="VI" URL="../UserControl/FileRefFGV.vi"/>
 		<Item Name="InputPadRef.vi" Type="VI" URL="../SubPanels/InputPadRef.vi"/>
 		<Item Name="SubPanelVI.vi" Type="VI" URL="../SubPanels/SubPanelVI.vi"/>
 		<Item Name="CylFGV.vi" Type="VI" URL="../CYL/CylFGV.vi"/>
 		<Item Name="PrgFGV.vi" Type="VI" URL="../PrgFGV.vi"/>
+		<Item Name="PRTtagFGV.vi" Type="VI" URL="../UserControl/PRTtagFGV.vi"/>
+		<Item Name="PRGtagFGV.vi" Type="VI" URL="../UserControl/PRGtagFGV.vi"/>
+		<Item Name="SEQtagFGV.vi" Type="VI" URL="../UserControl/SEQtagFGV.vi"/>
 	</Item>
 	<Item Name="NumericPad" Type="Folder">
 		<Item Name="InputPad.vi" Type="VI" URL="../SubPanels/InputPad.vi"/>
@@ -52,4 +55,5 @@
 	<Item Name="Status.ctl" Type="VI" URL="../Status.ctl"/>
 	<Item Name="CheckPanelEmpty.vi" Type="VI" URL="../UserVIs/CheckPanelEmpty.vi"/>
 	<Item Name="CorWFMPanel.ctl" Type="VI" URL="../COR/CorWFMPanel.ctl"/>
+	<Item Name="DataRead.vi" Type="VI" URL="../UserVIs/DataRead.vi"/>
 </Library>

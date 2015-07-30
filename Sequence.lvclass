@@ -39,7 +39,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 	</Item>
 	<Item Name="SeqSet.vi" Type="VI" URL="../SEQ/SeqSet.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!3%&amp;.F=86F&lt;G.F,GRW9WRB=X-!!!&gt;426%A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!Q`````Q.597=!+E"Q!"Y!!"!/1W^I&lt;X*U,GRW9WRB=X-!!!Z$&lt;WBP=H1O&lt;(:D&lt;'&amp;T=Q!!'E"!!!(`````!!A-18*S98EA&lt;W9A1U^3!!!E1(!!(A!!%B"4:8&amp;V:7ZD:3ZM&gt;G.M98.T!!!'5U62)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!E!#A)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!A!!!!)!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
