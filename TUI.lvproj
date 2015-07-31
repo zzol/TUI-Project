@@ -19,6 +19,8 @@
 		<Item Name="Protocol.lvclass" Type="LVClass" URL="../PRT/Protocol.lvclass"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
+		<Item Name="TimingChain.vi" Type="VI" URL="../UserControl/TimingChain.vi"/>
+		<Item Name="TimingSliders.ctl" Type="VI" URL="../UserControl/TimingSliders.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
