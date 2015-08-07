@@ -19,12 +19,14 @@
 		<Item Name="Protocol.lvclass" Type="LVClass" URL="../PRT/Protocol.lvclass"/>
 		<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence.lvclass"/>
 		<Item Name="StimulCtrls.lvlib" Type="Library" URL="../StimulCtrls.lvlib"/>
-		<Item Name="TimingChain.vi" Type="VI" URL="../UserControl/TimingChain.vi"/>
-		<Item Name="TimingSliders.ctl" Type="VI" URL="../UserControl/TimingSliders.ctl"/>
+		<Item Name="Time Slider.xctl" Type="XControl" URL="../Time Slider/Time Slider.xctl"/>
+		<Item Name="xControlTest.vi" Type="VI" URL="../Time Slider/xControlTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
+				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
+				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="PulseConfig.ctl" Type="VI" URL="../PulseConfig.ctl"/>

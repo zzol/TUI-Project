@@ -41,6 +41,8 @@
 	</Item>
 	<Item Name="ProgramEditor" Type="Folder">
 		<Item Name="PrgDisplay.vi" Type="VI" URL="../PrgEditor/PrgDisplay.vi"/>
+		<Item Name="SEQPanel.ctl" Type="VI" URL="../PrgEditor/SEQPanel.ctl"/>
+		<Item Name="PrgEditor.vi" Type="VI" URL="../PrgEditor/PrgEditor.vi"/>
 	</Item>
 	<Item Name="AmpToRing.vi" Type="VI" URL="../UserControl/AmpToRing.vi"/>
 	<Item Name="CohortConfig.ctl" Type="VI" URL="../COR/CohortConfig.ctl"/>
@@ -56,4 +58,5 @@
 	<Item Name="CheckPanelEmpty.vi" Type="VI" URL="../UserVIs/CheckPanelEmpty.vi"/>
 	<Item Name="CorWFMPanel.ctl" Type="VI" URL="../COR/CorWFMPanel.ctl"/>
 	<Item Name="DataRead.vi" Type="VI" URL="../UserVIs/DataRead.vi"/>
+	<Item Name="TimingChain.vi" Type="VI" URL="../UserControl/TimingChain.vi"/>
 </Library>
